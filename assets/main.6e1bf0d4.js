@@ -1,0 +1,1 @@
+import{d as e,c as a,a as t,F as n,b as o,o as s,H as c,e as p}from"./main.22b81509.js";const r=o("main",null,null,-1),l=e({__name:"App",setup(m){return(_,u)=>(s(),a(n,null,[t(c,{"page-title":"Home"}),r],64))}});p(l).mount("#app");

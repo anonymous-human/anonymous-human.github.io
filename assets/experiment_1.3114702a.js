@@ -1,0 +1,1 @@
+import{d as e,c as a,a as t,F as n,b as o,o as r,H as s,e as c}from"./main.22b81509.js";const p=o("main",null,null,-1),m=e({__name:"Experiment1",setup(l){return(_,i)=>(r(),a(n,null,[t(s,{"page-title":"Experiment #1"}),p],64))}});c(m).mount("#app");
